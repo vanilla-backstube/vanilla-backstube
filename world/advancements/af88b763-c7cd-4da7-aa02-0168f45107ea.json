@@ -111,7 +111,8 @@
       "golden_apple": "2023-08-10 21:59:40 +0000",
       "melon_slice": "2023-08-10 22:49:48 +0000",
       "golden_carrot": "2023-06-29 18:47:13 +0000",
-      "cooked_chicken": "2023-06-29 18:54:57 +0000"
+      "cooked_chicken": "2023-06-29 18:54:57 +0000",
+      "cod": "2023-08-25 13:10:01 +0000"
     },
     "done": false
   },
@@ -2199,7 +2200,25 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2023-08-10 22:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-08-10 22:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-08-10 22:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2023-08-10 22:46:23 +0000"
     },
@@ -2217,21 +2236,39 @@
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "beacon": "2023-08-10 22:44:44 +0000"
+      "has_poppy": "2023-08-25 13:09:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_rail": "2023-08-10 22:46:23 +0000"
+      "has_cod": "2023-08-25 13:09:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_rail": "2023-08-10 22:46:23 +0000"
+      "has_cod": "2023-08-25 13:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-08-25 13:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2023-08-25 13:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2023-08-25 13:11:28 +0000"
     },
     "done": true
   },

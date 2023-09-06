@@ -2027,12 +2027,6 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-02-14 16:38:15 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:kill_empty_boats": {
     "criteria": {
       "tick": "2023-02-14 16:38:15 +0000"
@@ -2052,12 +2046,6 @@
     "done": true
   },
   "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-02-14 16:38:15 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2023-02-14 16:38:15 +0000"
     },
@@ -4298,6 +4286,30 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2023-09-02 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-09-05 15:41:37 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-09-05 15:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-09-05 15:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-09-05 16:42:21 +0000"
     },
     "done": true
   },

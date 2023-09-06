@@ -3588,12 +3588,6 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:afk_display": {
     "criteria": {
       "tick": "2023-02-14 16:37:51 +0000"
@@ -3625,12 +3619,6 @@
     "done": true
   },
   "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2023-02-14 16:37:51 +0000"
     },
@@ -5605,6 +5593,18 @@
       "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2023-08-06 19:43:06 +0000"
     },
     "done": false
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-09-05 15:40:59 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-09-05 15:40:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

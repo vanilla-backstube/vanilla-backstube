@@ -3215,12 +3215,6 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:afk_display": {
     "criteria": {
       "tick": "2023-02-14 16:22:38 +0000"
@@ -3252,12 +3246,6 @@
     "done": true
   },
   "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2023-02-14 16:22:38 +0000"
     },
@@ -5872,6 +5860,18 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-08-25 11:56:13 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-09-05 15:41:44 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-09-05 15:41:44 +0000"
     },
     "done": true
   },

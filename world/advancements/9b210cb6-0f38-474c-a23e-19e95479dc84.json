@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-05-05 16:57:03 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:afk_display": {
     "criteria": {
       "tick": "2023-05-05 16:57:03 +0000"
@@ -61,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-09-10 16:29:02 +0000",
       "minecraft:taiga": "2023-05-07 18:41:29 +0000",
       "minecraft:birch_forest": "2023-05-07 18:41:25 +0000",
       "minecraft:dark_forest": "2023-05-05 17:12:42 +0000",
@@ -83,12 +78,6 @@
     "done": false
   },
   "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-05-05 16:57:03 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2023-05-05 16:57:03 +0000"
     },
@@ -1892,6 +1881,54 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2023-05-10 18:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2023-09-10 16:30:02 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-09-10 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2023-09-10 16:30:02 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-09-10 16:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-09-10 16:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-09-10 16:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2023-09-10 16:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2023-09-10 16:30:02 +0000"
     },
     "done": true
   },

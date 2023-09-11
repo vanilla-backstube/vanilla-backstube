@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-04-15 14:24:30 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:kill_empty_boats": {
     "criteria": {
       "tick": "2023-04-15 14:24:30 +0000"
@@ -42,12 +36,6 @@
     "done": true
   },
   "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-04-15 14:24:30 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2023-04-15 14:24:30 +0000"
     },
@@ -77,12 +65,16 @@
       "minecraft:deep_ocean": "2023-05-04 17:37:47 +0000",
       "minecraft:birch_forest": "2023-04-22 18:18:09 +0000",
       "minecraft:dark_forest": "2023-04-17 02:07:46 +0000",
+      "minecraft:stony_peaks": "2023-09-10 14:27:28 +0000",
       "minecraft:river": "2023-04-20 22:28:29 +0000",
+      "minecraft:lukewarm_ocean": "2023-09-10 14:39:40 +0000",
+      "minecraft:stony_shore": "2023-09-10 14:39:13 +0000",
       "minecraft:dripstone_caves": "2023-04-15 14:36:30 +0000",
       "minecraft:grove": "2023-04-15 14:34:29 +0000",
       "minecraft:jagged_peaks": "2023-04-15 15:00:53 +0000",
       "minecraft:forest": "2023-04-20 22:29:26 +0000",
       "minecraft:ocean": "2023-05-04 17:37:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2023-09-10 14:40:06 +0000",
       "minecraft:old_growth_birch_forest": "2023-04-21 16:02:48 +0000",
       "minecraft:deep_dark": "2023-04-19 22:14:54 +0000",
       "minecraft:meadow": "2023-04-15 14:24:33 +0000",
@@ -2109,67 +2101,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-04-20 23:02:06 +0000"
     },
@@ -2181,31 +2113,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-04-20 23:02:06 +0000"
     },
@@ -2214,102 +2122,6 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2023-04-20 23:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-04-20 23:03:47 +0000"
     },
     "done": true
   },
@@ -2502,12 +2314,6 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2023-04-21 13:01:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
-    "criteria": {
-      "has_black_dye": "2023-04-21 13:03:33 +0000"
     },
     "done": true
   },
@@ -2871,12 +2677,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
-    "criteria": {
-      "has_red_dye": "2023-05-06 10:22:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2023-05-06 10:22:04 +0000"
@@ -2949,5 +2749,53 @@
     },
     "done": true
   },
-  "DataVersion": 3337
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-09-10 14:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-09-10 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2023-09-10 14:43:10 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-09-10 14:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-09-10 14:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-09-10 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-09-10 14:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2023-09-10 14:43:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }

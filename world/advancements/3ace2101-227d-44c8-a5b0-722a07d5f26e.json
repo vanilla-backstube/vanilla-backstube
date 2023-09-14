@@ -3637,21 +3637,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2023-09-10 14:10:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
       "has_needed_dye": "2023-09-10 14:08:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2023-09-10 14:10:24 +0000"
     },
     "done": true
   },
@@ -3667,21 +3655,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2023-09-10 14:17:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_brown_wool": {
     "criteria": {
       "has_needed_dye": "2023-09-10 14:08:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-09-10 14:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-09-10 14:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2023-09-10 14:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-09-10 14:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-09-13 17:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-09-13 17:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-09-13 17:31:34 +0000"
     },
     "done": true
   },

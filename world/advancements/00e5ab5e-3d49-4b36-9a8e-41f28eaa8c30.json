@@ -480,6 +480,7 @@
       "minecraft:elder_guardian": "2023-07-10 17:45:01 +0000",
       "minecraft:ravager": "2023-08-14 16:10:26 +0000",
       "minecraft:ghast": "2023-03-01 19:01:35 +0000",
+      "minecraft:hoglin": "2023-09-17 14:25:04 +0000",
       "minecraft:guardian": "2023-07-10 17:45:05 +0000",
       "minecraft:vindicator": "2023-07-10 21:53:49 +0000",
       "minecraft:magma_cube": "2023-03-02 15:12:08 +0000",
@@ -1374,12 +1375,6 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:kill_empty_boats": {
     "criteria": {
       "tick": "2023-02-26 17:13:10 +0000"
@@ -1399,12 +1394,6 @@
     "done": true
   },
   "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2023-02-26 17:13:10 +0000"
     },
@@ -5375,6 +5364,66 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2023-09-01 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-09-17 13:42:23 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-09-17 13:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2023-09-17 13:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2023-09-17 13:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-09-17 14:12:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-09-17 18:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2023-09-17 18:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2023-09-17 18:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2023-09-17 18:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2023-09-17 18:04:48 +0000"
     },
     "done": true
   },

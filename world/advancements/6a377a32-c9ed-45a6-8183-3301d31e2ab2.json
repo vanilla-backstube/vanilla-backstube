@@ -680,6 +680,7 @@
       "minecraft:phantom": "2023-02-15 17:08:42 +0000",
       "minecraft:zombified_piglin": "2023-08-10 20:40:55 +0000",
       "minecraft:witch": "2023-02-19 21:29:39 +0000",
+      "minecraft:ender_dragon": "2023-09-18 15:58:42 +0000",
       "minecraft:shulker": "2023-03-03 23:37:33 +0000",
       "minecraft:piglin": "2023-03-15 19:20:38 +0000",
       "minecraft:enderman": "2023-01-23 18:42:53 +0000",
@@ -4448,6 +4449,30 @@
   "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2023-09-11 09:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2023-09-18 15:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2023-09-18 15:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-09-18 15:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2023-09-18 15:46:38 +0000"
     },
     "done": true
   },

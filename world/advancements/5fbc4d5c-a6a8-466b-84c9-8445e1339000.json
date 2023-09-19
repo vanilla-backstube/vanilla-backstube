@@ -1,0 +1,87 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:villager_workstation_highlights": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:kill_empty_boats": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_nether_portals": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:meadow": "2023-09-18 16:07:53 +0000"
+    },
+    "done": false
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2023-09-18 16:07:52 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -586,6 +586,7 @@
     "criteria": {
       "cooked_porkchop": "2023-09-22 14:48:37 +0000",
       "cooked_mutton": "2023-09-22 14:33:59 +0000",
+      "apple": "2023-09-28 08:37:22 +0000",
       "cooked_chicken": "2023-09-23 06:35:01 +0000"
     },
     "done": false
@@ -862,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-09-23 06:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2023-09-23 06:42:32 +0000"
@@ -871,18 +878,6 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2023-09-23 06:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2023-09-23 06:42:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2023-09-23 06:41:17 +0000"
     },
     "done": true
   },
@@ -907,6 +902,48 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2023-09-23 06:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-09-23 06:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2023-09-28 08:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-09-28 08:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2023-09-28 08:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-09-28 08:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-09-28 08:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2023-09-28 08:41:55 +0000"
     },
     "done": true
   },

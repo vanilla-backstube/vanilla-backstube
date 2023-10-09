@@ -1,10 +1,4 @@
 {
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2023-04-02 12:00:46 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:root": {
     "criteria": {
       "tick": "2023-04-02 12:00:46 +0000"
@@ -47,12 +41,6 @@
     },
     "done": true
   },
-  "vanillatweaks:armor_statues": {
-    "criteria": {
-      "tick": "2023-04-02 12:00:46 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:kill_empty_boats": {
     "criteria": {
       "tick": "2023-04-02 12:00:46 +0000"
@@ -73,9 +61,28 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:grove": "2023-10-08 12:37:28 +0000",
       "minecraft:meadow": "2023-04-02 12:00:47 +0000"
     },
     "done": false
   },
-  "DataVersion": 3218
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2023-10-08 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-08 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2023-10-08 12:28:57 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }

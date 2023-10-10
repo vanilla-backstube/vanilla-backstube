@@ -495,9 +495,11 @@
       "minecraft:pillager": "2023-08-29 14:21:37 +0000",
       "minecraft:skeleton": "2023-08-09 19:02:30 +0000",
       "minecraft:elder_guardian": "2023-08-14 01:22:31 +0000",
+      "minecraft:ravager": "2023-10-09 14:16:03 +0000",
       "minecraft:ghast": "2023-08-14 00:34:33 +0000",
       "minecraft:hoglin": "2023-08-15 23:12:47 +0000",
       "minecraft:guardian": "2023-08-15 22:56:26 +0000",
+      "minecraft:vindicator": "2023-10-09 14:15:15 +0000",
       "minecraft:magma_cube": "2023-08-16 01:25:37 +0000",
       "minecraft:spider": "2023-08-09 19:00:19 +0000",
       "minecraft:piglin_brute": "2023-08-15 23:11:43 +0000",
@@ -4851,6 +4853,84 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2023-10-08 19:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-10-09 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2023-10-09 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_exposed_cut_copper": "2023-10-09 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_cut_copper": "2023-10-09 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_cut_copper": "2023-10-09 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab": {
+    "criteria": {
+      "has_exposed_cut_copper": "2023-10-09 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper": "2023-10-09 16:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-10-09 20:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-10-09 20:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-10-09 20:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-10-09 20:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-10-09 20:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2023-10-09 20:29:13 +0000"
     },
     "done": true
   },

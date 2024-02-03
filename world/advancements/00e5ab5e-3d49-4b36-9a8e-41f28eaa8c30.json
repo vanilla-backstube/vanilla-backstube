@@ -5494,5 +5494,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2024-02-02 17:13:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -14,6 +14,7 @@
       "minecraft:beach": "2023-01-22 19:49:52 +0000",
       "minecraft:dark_forest": "2023-01-19 09:51:01 +0000",
       "minecraft:stony_peaks": "2023-01-22 21:53:22 +0000",
+      "minecraft:mangrove_swamp": "2024-02-03 17:47:06 +0000",
       "minecraft:sparse_jungle": "2023-02-16 19:15:37 +0000",
       "minecraft:river": "2023-01-22 19:46:36 +0000",
       "minecraft:lukewarm_ocean": "2023-02-28 22:57:50 +0000",
@@ -157,6 +158,7 @@
       "baked_potato": "2023-01-19 20:56:29 +0000",
       "beef": "2023-01-21 13:30:57 +0000",
       "apple": "2023-01-19 17:15:35 +0000",
+      "cooked_cod": "2024-02-03 18:45:27 +0000",
       "pumpkin_pie": "2023-02-06 17:46:16 +0000",
       "mutton": "2023-01-22 18:52:19 +0000",
       "bread": "2023-01-19 09:49:20 +0000",
@@ -5872,6 +5874,54 @@
   "vanillatweaks:silence_mobs": {
     "criteria": {
       "tick": "2023-09-05 15:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-02-03 17:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-02-03 18:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2024-02-03 18:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2024-02-03 18:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2024-02-03 18:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2024-02-03 18:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2024-02-03 18:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2024-02-03 18:51:20 +0000"
     },
     "done": true
   },

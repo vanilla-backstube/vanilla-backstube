@@ -5925,5 +5925,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-02-05 13:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-02-05 13:22:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

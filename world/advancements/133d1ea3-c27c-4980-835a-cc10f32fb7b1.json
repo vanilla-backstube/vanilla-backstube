@@ -6172,9 +6172,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+  "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
-      "has_log": "2024-02-14 23:06:37 +0000"
+      "has_logs": "2024-02-14 22:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-02-14 22:56:25 +0000"
     },
     "done": true
   },
@@ -6196,27 +6202,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2024-02-14 22:56:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2024-02-14 23:02:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2024-02-14 22:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-02-14 23:06:37 +0000"
     },
     "done": true
   },
@@ -6247,6 +6235,60 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2024-02-14 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-02-14 23:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-02-14 23:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-02-15 10:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-02-15 10:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-02-15 10:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-02-15 10:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2024-02-15 10:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-15 10:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-02-15 10:57:21 +0000"
     },
     "done": true
   },

@@ -33,8 +33,10 @@
       "minecraft:forest": "2023-02-12 18:03:51 +0000",
       "minecraft:lush_caves": "2023-04-13 20:53:54 +0000",
       "minecraft:deep_cold_ocean": "2023-07-10 17:22:19 +0000",
+      "minecraft:ice_spikes": "2024-02-22 16:22:49 +0000",
       "minecraft:frozen_ocean": "2023-08-10 21:32:39 +0000",
       "minecraft:desert": "2023-08-10 20:46:12 +0000",
+      "minecraft:deep_frozen_ocean": "2024-02-22 16:23:54 +0000",
       "minecraft:ocean": "2023-03-02 15:25:31 +0000",
       "minecraft:jungle": "2023-03-09 17:34:17 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-03-01 18:30:30 +0000",
@@ -61,6 +63,7 @@
       "cooked_beef": "2023-03-01 18:30:35 +0000",
       "baked_potato": "2023-02-12 16:54:46 +0000",
       "beef": "2023-06-29 19:06:40 +0000",
+      "tropical_fish": "2024-02-22 21:26:45 +0000",
       "apple": "2023-03-16 15:53:29 +0000",
       "potato": "2023-02-12 17:32:00 +0000",
       "cooked_cod": "2023-07-10 18:00:20 +0000",
@@ -1531,7 +1534,8 @@
     "criteria": {
       "minecraft:turtle": "2023-03-09 19:25:08 +0000",
       "minecraft:sheep": "2023-03-14 16:35:27 +0000",
-      "minecraft:cow": "2023-02-26 17:47:16 +0000"
+      "minecraft:cow": "2023-02-26 17:47:16 +0000",
+      "minecraft:axolotl": "2024-02-22 19:07:21 +0000"
     },
     "done": false
   },
@@ -5576,6 +5580,84 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-02-10 15:07:44 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2024-02-22 14:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-02-22 15:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-02-22 15:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-02-22 15:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-02-22 15:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-02-22 15:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-02-22 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-02-22 15:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-02-22 16:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-02-22 16:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2024-02-22 19:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2024-02-22 19:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2024-02-22 19:47:37 +0000"
     },
     "done": true
   },

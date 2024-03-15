@@ -354,8 +354,11 @@
       "cooked_mutton": "2023-08-10 02:32:28 +0000",
       "cooked_beef": "2023-08-16 14:44:55 +0000",
       "baked_potato": "2024-02-29 23:21:03 +0000",
+      "beef": "2024-03-14 19:27:24 +0000",
+      "apple": "2024-03-14 19:02:32 +0000",
       "potato": "2023-08-10 22:30:49 +0000",
       "cooked_cod": "2023-08-15 22:58:01 +0000",
+      "mutton": "2024-03-14 19:27:04 +0000",
       "bread": "2023-08-09 19:14:48 +0000",
       "golden_apple": "2023-08-14 20:17:10 +0000",
       "rotten_flesh": "2024-02-29 23:17:26 +0000",
@@ -363,6 +366,7 @@
       "golden_carrot": "2023-08-09 18:51:00 +0000",
       "cooked_rabbit": "2024-03-05 15:08:10 +0000",
       "cooked_chicken": "2023-08-10 21:47:22 +0000",
+      "cod": "2024-03-14 19:33:23 +0000",
       "carrot": "2023-08-30 13:10:29 +0000"
     },
     "done": false
@@ -509,6 +513,7 @@
       "minecraft:piglin_brute": "2023-08-15 23:11:43 +0000",
       "minecraft:creeper": "2023-08-09 22:00:28 +0000",
       "minecraft:slime": "2023-08-17 16:27:27 +0000",
+      "minecraft:evoker": "2024-03-14 19:29:08 +0000",
       "minecraft:phantom": "2023-08-10 02:31:44 +0000",
       "minecraft:zombified_piglin": "2023-08-15 23:25:18 +0000",
       "minecraft:witch": "2023-08-30 10:58:21 +0000",
@@ -519,6 +524,7 @@
       "minecraft:enderman": "2023-08-09 21:44:07 +0000",
       "minecraft:stray": "2023-08-29 14:58:45 +0000",
       "minecraft:silverfish": "2024-03-01 17:28:00 +0000",
+      "minecraft:vex": "2024-03-14 19:30:04 +0000",
       "minecraft:zombie": "2023-08-09 21:29:05 +0000",
       "minecraft:drowned": "2023-08-09 19:26:01 +0000",
       "minecraft:zombie_villager": "2023-08-13 21:23:53 +0000"
@@ -5645,6 +5651,18 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-03-06 13:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-03-14 16:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-03-14 19:40:42 +0000"
     },
     "done": true
   },

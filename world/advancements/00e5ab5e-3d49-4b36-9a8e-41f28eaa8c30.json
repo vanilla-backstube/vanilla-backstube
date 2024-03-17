@@ -5820,15 +5820,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2024-03-15 15:16:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-03-15 15:16:53 +0000"
+      "has_hay_block": "2024-03-15 14:20:55 +0000"
     },
     "done": true
   },
@@ -5838,9 +5832,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "has_hay_block": "2024-03-15 14:20:55 +0000"
+      "has_sentry_armor_trim_smithing_template": "2024-03-15 15:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-15 15:16:53 +0000"
     },
     "done": true
   },

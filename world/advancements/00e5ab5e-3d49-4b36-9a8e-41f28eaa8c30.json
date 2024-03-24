@@ -5844,5 +5844,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-03-23 09:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-03-23 09:43:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

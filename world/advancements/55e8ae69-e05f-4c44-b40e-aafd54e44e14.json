@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2023-12-21 14:52:11 +0000",
       "minecraft:birch_forest": "2023-12-22 15:53:17 +0000",
+      "minecraft:bamboo_jungle": "2024-04-08 23:30:26 +0000",
       "minecraft:savanna_plateau": "2023-12-21 16:44:11 +0000",
       "minecraft:beach": "2023-12-22 15:55:49 +0000",
       "minecraft:dark_forest": "2023-12-21 16:22:14 +0000",
@@ -85,6 +86,7 @@
       "minecraft:ocean": "2023-12-21 16:17:51 +0000",
       "minecraft:jungle": "2023-12-22 15:53:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-12-21 16:11:43 +0000",
+      "minecraft:deep_dark": "2024-04-08 23:21:31 +0000",
       "minecraft:meadow": "2023-12-21 14:29:11 +0000",
       "minecraft:savanna": "2023-12-21 16:44:23 +0000",
       "minecraft:plains": "2023-12-21 14:52:12 +0000"
@@ -1167,57 +1169,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2023-12-22 14:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2023-12-22 15:00:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2023-12-22 15:00:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2023-12-22 14:44:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2023-12-22 15:00:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-12-22 15:00:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2023-12-22 15:59:28 +0000"
     },
     "done": true
   },
@@ -1251,33 +1205,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-12-22 14:44:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2023-12-22 14:54:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
     },
     "done": true
   },
@@ -1287,27 +1217,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
+      "has_stone_bricks": "2023-12-22 14:44:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_pumpkin": "2023-12-22 15:53:22 +0000"
+      "has_smooth_stone": "2023-12-22 14:44:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_planks": "2023-12-22 15:00:40 +0000"
+      "has_smooth_stone": "2023-12-22 14:44:27 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "summoned_golem": "2023-12-22 15:58:05 +0000"
+      "has_smooth_stone": "2023-12-22 14:44:27 +0000"
     },
     "done": true
   },
@@ -1317,33 +1247,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_stripped_logs": "2023-12-22 15:25:33 +0000"
+      "has_planks": "2023-12-22 14:47:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
-      "has_coal_ore": "2023-12-22 15:08:02 +0000"
+      "has_planks": "2023-12-22 14:47:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "has_log": "2023-12-22 15:25:33 +0000"
+      "has_planks": "2023-12-22 14:47:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
-      "has_moss_block": "2023-12-22 15:54:29 +0000"
+      "has_planks": "2023-12-22 14:47:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
-      "has_paper": "2023-12-22 15:59:28 +0000"
+      "has_planks": "2023-12-22 14:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-12-22 14:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2023-12-22 14:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2023-12-22 14:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2023-12-22 14:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2023-12-22 14:54:54 +0000"
     },
     "done": true
   },
@@ -1359,15 +1319,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
-      "has_smooth_stone": "2023-12-22 14:44:27 +0000"
+      "has_bamboo": "2023-12-22 14:55:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
+      "has_planks": "2023-12-22 15:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-12-22 15:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-12-22 15:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-12-22 15:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-12-22 15:00:40 +0000"
     },
     "done": true
   },
@@ -1383,21 +1367,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
+      "has_planks": "2023-12-22 15:00:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+  "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
-      "has_smooth_stone": "2023-12-22 14:44:27 +0000"
+      "has_planks": "2023-12-22 15:00:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "has_stone_bricks": "2023-12-22 14:44:18 +0000"
+      "has_coal_ore": "2023-12-22 15:08:02 +0000"
     },
     "done": true
   },
@@ -1407,39 +1391,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2023-12-22 14:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2023-12-22 15:54:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-12-22 15:08:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
-      "has_planks": "2023-12-22 14:47:51 +0000"
+      "has_stripped_logs": "2023-12-22 15:25:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
-      "has_moss_block": "2023-12-22 15:54:29 +0000"
+      "has_log": "2023-12-22 15:25:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_planks": "2023-12-22 15:00:40 +0000"
+      "has_pumpkin": "2023-12-22 15:53:22 +0000"
     },
     "done": true
   },
@@ -1449,9 +1421,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
+  "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
-      "has_planks": "2023-12-22 15:00:40 +0000"
+      "has_moss_block": "2023-12-22 15:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-12-22 15:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-12-22 15:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2023-12-22 15:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-12-22 15:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-12-22 15:59:28 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2024-04-08 23:18:02 +0000"
     },
     "done": true
   },

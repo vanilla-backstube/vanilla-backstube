@@ -66,6 +66,7 @@
       "baked_potato": "2023-01-22 19:24:39 +0000",
       "apple": "2023-01-18 20:55:29 +0000",
       "potato": "2023-01-22 18:58:45 +0000",
+      "cooked_cod": "2024-05-20 21:02:49 +0000",
       "pumpkin_pie": "2023-02-26 22:46:09 +0000",
       "mutton": "2023-09-02 01:46:20 +0000",
       "bread": "2023-01-18 20:55:47 +0000",
@@ -4568,6 +4569,30 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2024-05-08 13:55:07 +0000"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-05-20 17:05:39 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-05-20 17:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-05-20 21:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-05-20 21:03:54 +0000"
     },
     "done": true
   },

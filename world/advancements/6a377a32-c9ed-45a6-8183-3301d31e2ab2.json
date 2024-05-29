@@ -64,6 +64,7 @@
       "cooked_beef": "2023-01-22 23:17:05 +0000",
       "chorus_fruit": "2023-02-26 21:47:23 +0000",
       "baked_potato": "2023-01-22 19:24:39 +0000",
+      "beef": "2024-05-28 19:20:06 +0000",
       "apple": "2023-01-18 20:55:29 +0000",
       "potato": "2023-01-22 18:58:45 +0000",
       "cooked_cod": "2024-05-20 21:02:49 +0000",
@@ -675,6 +676,7 @@
     "criteria": {
       "minecraft:pillager": "2023-01-22 19:18:08 +0000",
       "minecraft:skeleton": "2023-01-21 18:43:04 +0000",
+      "minecraft:ravager": "2024-05-28 18:59:44 +0000",
       "minecraft:hoglin": "2023-03-15 19:10:35 +0000",
       "minecraft:vindicator": "2023-01-22 19:14:00 +0000",
       "minecraft:magma_cube": "2023-02-16 10:52:32 +0000",
@@ -4695,6 +4697,36 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2024-05-27 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-05-28 12:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-05-28 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-05-28 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-05-28 19:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-05-28 22:27:09 +0000"
     },
     "done": true
   },

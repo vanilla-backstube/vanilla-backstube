@@ -32,6 +32,7 @@
       "minecraft:desert": "2023-03-15 19:19:14 +0000",
       "minecraft:jungle": "2023-03-07 15:28:17 +0000",
       "minecraft:ocean": "2024-02-26 00:00:11 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-05-29 21:15:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-03-15 15:22:38 +0000",
       "minecraft:frozen_peaks": "2023-08-06 18:46:47 +0000",
       "minecraft:old_growth_birch_forest": "2023-03-15 09:15:49 +0000",
@@ -4727,6 +4728,312 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-05-28 22:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-05-29 17:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-05-29 17:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2024-05-29 17:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2024-05-29 17:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-05-29 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-05-29 17:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-05-29 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-05-29 21:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-05-29 21:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-05-29 21:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-05-29 21:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-05-29 21:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-05-29 21:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-05-29 21:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-05-29 21:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-05-29 21:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-05-29 21:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-05-29 21:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-05-29 21:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-05-29 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-05-29 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-05-29 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-05-29 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-05-29 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-05-29 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-05-29 23:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-05-29 23:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-05-29 23:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-05-29 23:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-05-29 23:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-05-30 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-05-30 02:39:24 +0000"
     },
     "done": true
   },

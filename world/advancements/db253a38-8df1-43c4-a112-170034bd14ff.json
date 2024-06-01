@@ -5897,5 +5897,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-05-31 14:01:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-05-31 19:00:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

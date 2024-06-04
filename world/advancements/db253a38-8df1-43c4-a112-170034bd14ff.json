@@ -6023,6 +6023,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-02 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-02 22:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
       "has_needed_dye": "2024-06-02 22:39:49 +0000"
@@ -6035,21 +6047,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-02 22:32:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_needed_dye": "2024-06-02 22:39:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
-      "has_needed_dye": "2024-06-02 22:32:45 +0000"
+      "has_needed_dye": "2024-06-03 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-03 18:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-03 18:43:59 +0000"
     },
     "done": true
   },

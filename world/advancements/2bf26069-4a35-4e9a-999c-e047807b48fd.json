@@ -5666,5 +5666,17 @@
     },
     "done": true
   },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-06-05 09:49:28 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-06-05 09:49:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

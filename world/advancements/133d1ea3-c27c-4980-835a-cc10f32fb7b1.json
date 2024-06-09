@@ -177,6 +177,7 @@
       "beetroot": "2023-02-06 17:45:41 +0000",
       "golden_carrot": "2023-02-14 10:41:53 +0000",
       "cooked_chicken": "2023-04-23 16:26:41 +0000",
+      "enchanted_golden_apple": "2024-06-08 15:30:24 +0000",
       "carrot": "2023-01-19 09:45:02 +0000"
     },
     "done": false
@@ -2299,9 +2300,11 @@
       "minecraft:frog": "2023-03-07 00:01:24 +0000",
       "minecraft:turtle": "2023-03-18 01:14:18 +0000",
       "minecraft:sheep": "2023-02-03 13:25:22 +0000",
+      "minecraft:mule": "2024-06-08 11:44:35 +0000",
       "minecraft:mooshroom": "2024-03-06 10:39:44 +0000",
       "minecraft:cow": "2023-02-03 13:25:15 +0000",
-      "minecraft:chicken": "2024-02-06 16:28:25 +0000"
+      "minecraft:chicken": "2024-02-06 16:28:25 +0000",
+      "minecraft:horse": "2024-06-08 11:44:26 +0000"
     },
     "done": false
   },

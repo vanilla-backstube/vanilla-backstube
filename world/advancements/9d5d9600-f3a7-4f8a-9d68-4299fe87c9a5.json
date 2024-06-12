@@ -2569,75 +2569,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-06-04 11:39:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-06-04 11:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-04 11:37:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-06-04 11:26:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-04 11:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-04 11:37:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-06-04 11:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-06-04 11:26:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-06-04 11:38:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-06-04 11:38:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-06-04 11:38:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-06-04 11:18:38 +0000"
     },
     "done": true
   },
@@ -2653,45 +2587,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2024-06-04 11:37:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-06-04 11:26:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2024-06-04 11:18:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2024-06-04 11:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-06-04 11:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2024-06-04 11:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_candle": {
-    "criteria": {
-      "has_magenta_dye": "2024-06-04 11:38:17 +0000"
     },
     "done": true
   },
@@ -2701,9 +2599,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
-      "has_glass": "2024-06-04 11:18:42 +0000"
+      "has_needed_dye": "2024-06-04 11:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-06-04 11:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-06-04 11:18:18 +0000"
     },
     "done": true
   },
@@ -2725,15 +2635,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
-      "has_allium": "2024-06-04 11:38:14 +0000"
+      "has_glass": "2024-06-04 11:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-04 11:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-04 11:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-04 11:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-04 11:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-06-04 11:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-06-04 11:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-04 11:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-04 11:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-06-04 11:37:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2024-06-04 11:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-06-04 11:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-04 11:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-04 11:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-04 11:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-06-04 11:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-04 11:39:13 +0000"
     },
     "done": true
   },

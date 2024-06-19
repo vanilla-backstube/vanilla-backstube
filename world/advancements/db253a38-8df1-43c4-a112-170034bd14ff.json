@@ -748,24 +748,24 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-02-15 11:51:54 +0000",
+      "bread": "2023-01-19 17:49:37 +0000",
+      "golden_apple": "2023-02-14 19:42:07 +0000",
       "honey_bottle": "2023-03-05 16:43:53 +0000",
+      "rotten_flesh": "2023-02-23 15:25:29 +0000",
+      "suspicious_stew": "2023-08-06 13:51:14 +0000",
       "cooked_mutton": "2023-01-19 09:51:54 +0000",
       "sweet_berries": "2023-02-06 12:11:35 +0000",
       "cooked_beef": "2023-01-23 16:13:06 +0000",
       "baked_potato": "2023-01-19 10:24:07 +0000",
       "beef": "2023-01-23 17:34:32 +0000",
-      "apple": "2023-02-10 14:42:11 +0000",
-      "potato": "2023-02-14 19:17:06 +0000",
-      "cooked_cod": "2023-03-02 19:29:58 +0000",
-      "pumpkin_pie": "2024-04-13 15:34:49 +0000",
-      "bread": "2023-01-19 17:49:37 +0000",
-      "golden_apple": "2023-02-14 19:42:07 +0000",
-      "rotten_flesh": "2023-02-23 15:25:29 +0000",
-      "suspicious_stew": "2023-08-06 13:51:14 +0000",
       "golden_carrot": "2023-01-22 16:58:09 +0000",
+      "apple": "2023-02-10 14:42:11 +0000",
       "cooked_rabbit": "2023-01-19 09:51:26 +0000",
       "cooked_chicken": "2023-02-27 19:24:33 +0000",
       "enchanted_golden_apple": "2023-08-06 18:30:45 +0000",
+      "potato": "2023-02-14 19:17:06 +0000",
+      "cooked_cod": "2023-03-02 19:29:58 +0000",
+      "pumpkin_pie": "2024-04-13 15:34:49 +0000",
       "carrot": "2023-01-19 10:02:03 +0000"
     },
     "done": false
@@ -1504,10 +1504,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2023-02-25 11:59:30 +0000",
-      "minecraft:sheep": "2023-01-20 16:52:33 +0000",
       "minecraft:cow": "2023-01-19 15:39:00 +0000",
       "minecraft:chicken": "2023-02-25 12:09:52 +0000",
+      "minecraft:pig": "2023-02-25 11:59:30 +0000",
+      "minecraft:sheep": "2023-01-20 16:52:33 +0000",
       "minecraft:bee": "2023-02-07 22:00:34 +0000"
     },
     "done": false
@@ -3580,60 +3580,6 @@
     },
     "done": true
   },
-  "vanillatweaks:root": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:player_head_drops": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:multiplayer_sleep": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:kill_empty_boats": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:custom_nether_portals": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:more_mob_heads": {
-    "criteria": {
-      "tick": "2023-02-14 16:37:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2023-02-14 17:09:39 +0000"
@@ -3985,12 +3931,6 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2023-02-17 00:22:56 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2023-02-17 16:35:35 +0000"
     },
     "done": true
   },
@@ -5598,18 +5538,6 @@
     },
     "done": false
   },
-  "vanillatweaks:durability_ping": {
-    "criteria": {
-      "tick": "2023-09-05 15:40:59 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:silence_mobs": {
-    "criteria": {
-      "tick": "2023-09-05 15:40:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2023-09-07 23:58:10 +0000"
@@ -5634,12 +5562,6 @@
     },
     "done": true
   },
-  "vanillatweaks:wandering_trades": {
-    "criteria": {
-      "tick": "2024-04-13 13:37:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2024-04-13 13:44:24 +0000"
@@ -5661,18 +5583,6 @@
   "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-04-13 14:22:39 +0000"
-    },
-    "done": true
-  },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2024-05-27 11:18:55 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
-    "criteria": {
-      "tick": "2024-05-27 11:18:55 +0000"
     },
     "done": true
   },
@@ -6186,5 +6096,5 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "DataVersion": 3953
 }

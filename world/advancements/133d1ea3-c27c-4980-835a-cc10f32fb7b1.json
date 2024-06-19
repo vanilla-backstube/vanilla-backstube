@@ -1,16 +1,27 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2023-03-03 22:23:31 +0000",
       "minecraft:snowy_slopes": "2023-01-21 13:22:50 +0000",
       "minecraft:old_growth_pine_taiga": "2023-03-18 01:12:32 +0000",
       "minecraft:mushroom_fields": "2024-03-06 10:12:04 +0000",
+      "minecraft:forest": "2023-01-19 10:26:50 +0000",
       "minecraft:taiga": "2023-01-22 19:46:18 +0000",
       "minecraft:deep_ocean": "2023-03-28 22:04:07 +0000",
+      "minecraft:lush_caves": "2023-01-21 13:52:43 +0000",
       "minecraft:eroded_badlands": "2023-08-10 23:40:25 +0000",
+      "minecraft:desert": "2023-02-16 19:06:36 +0000",
+      "minecraft:windswept_forest": "2024-03-12 18:25:21 +0000",
+      "minecraft:jungle": "2023-01-22 21:55:20 +0000",
+      "minecraft:ocean": "2023-03-02 19:28:27 +0000",
       "minecraft:birch_forest": "2023-01-21 13:58:22 +0000",
       "minecraft:windswept_hills": "2024-03-12 18:25:22 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-02-27 19:28:06 +0000",
       "minecraft:bamboo_jungle": "2023-03-18 00:56:49 +0000",
       "minecraft:wooded_badlands": "2023-08-10 23:41:24 +0000",
+      "minecraft:windswept_savanna": "2024-05-04 14:44:41 +0000",
+      "minecraft:warm_ocean": "2023-04-20 18:19:24 +0000",
+      "minecraft:deep_lukewarm_ocean": "2023-02-28 22:57:56 +0000",
       "minecraft:badlands": "2023-08-10 23:40:23 +0000",
       "minecraft:savanna_plateau": "2023-02-01 21:34:07 +0000",
       "minecraft:beach": "2023-01-22 19:49:52 +0000",
@@ -24,26 +35,15 @@
       "minecraft:snowy_plains": "2024-05-14 20:21:28 +0000",
       "minecraft:dripstone_caves": "2023-01-19 09:50:02 +0000",
       "minecraft:snowy_taiga": "2024-05-14 20:22:25 +0000",
-      "minecraft:grove": "2023-01-18 20:47:44 +0000",
-      "minecraft:swamp": "2023-02-19 15:46:31 +0000",
-      "minecraft:jagged_peaks": "2023-01-18 20:50:08 +0000",
-      "minecraft:cold_ocean": "2023-03-03 22:23:31 +0000",
-      "minecraft:forest": "2023-01-19 10:26:50 +0000",
-      "minecraft:lush_caves": "2023-01-21 13:52:43 +0000",
-      "minecraft:desert": "2023-02-16 19:06:36 +0000",
-      "minecraft:windswept_forest": "2024-03-12 18:25:21 +0000",
-      "minecraft:jungle": "2023-01-22 21:55:20 +0000",
-      "minecraft:ocean": "2023-03-02 19:28:27 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-02-27 19:28:06 +0000",
-      "minecraft:windswept_savanna": "2024-05-04 14:44:41 +0000",
-      "minecraft:warm_ocean": "2023-04-20 18:19:24 +0000",
-      "minecraft:deep_lukewarm_ocean": "2023-02-28 22:57:56 +0000",
       "minecraft:frozen_peaks": "2023-03-03 22:21:45 +0000",
       "minecraft:old_growth_birch_forest": "2023-01-22 19:45:56 +0000",
       "minecraft:deep_dark": "2023-02-02 13:29:29 +0000",
+      "minecraft:grove": "2023-01-18 20:47:44 +0000",
+      "minecraft:swamp": "2023-02-19 15:46:31 +0000",
       "minecraft:meadow": "2023-01-18 20:01:22 +0000",
       "minecraft:savanna": "2023-01-22 21:50:24 +0000",
-      "minecraft:plains": "2023-01-19 10:34:00 +0000"
+      "minecraft:plains": "2023-01-19 10:34:00 +0000",
+      "minecraft:jagged_peaks": "2023-01-18 20:50:08 +0000"
     },
     "done": false
   },
@@ -158,26 +158,26 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-02-12 22:03:04 +0000",
-      "chicken": "2023-01-21 13:22:13 +0000",
-      "cooked_mutton": "2023-02-17 18:50:02 +0000",
-      "sweet_berries": "2023-01-22 19:52:57 +0000",
-      "cooked_beef": "2023-01-21 13:33:27 +0000",
-      "baked_potato": "2023-01-19 20:56:29 +0000",
-      "beef": "2023-01-21 13:30:57 +0000",
-      "apple": "2023-01-19 17:15:35 +0000",
-      "cooked_cod": "2024-02-03 18:45:27 +0000",
-      "pumpkin_pie": "2023-02-06 17:46:16 +0000",
       "mutton": "2023-01-22 18:52:19 +0000",
+      "chicken": "2023-01-21 13:22:13 +0000",
       "bread": "2023-01-19 09:49:20 +0000",
       "golden_apple": "2023-02-26 22:37:06 +0000",
       "rotten_flesh": "2023-01-22 18:51:57 +0000",
       "cookie": "2024-05-08 09:02:35 +0000",
+      "cooked_mutton": "2023-02-17 18:50:02 +0000",
       "glow_berries": "2023-01-21 13:55:12 +0000",
+      "sweet_berries": "2023-01-22 19:52:57 +0000",
+      "cooked_beef": "2023-01-21 13:33:27 +0000",
+      "baked_potato": "2023-01-19 20:56:29 +0000",
+      "beef": "2023-01-21 13:30:57 +0000",
       "melon_slice": "2023-02-14 11:13:09 +0000",
       "beetroot": "2023-02-06 17:45:41 +0000",
       "golden_carrot": "2023-02-14 10:41:53 +0000",
+      "apple": "2023-01-19 17:15:35 +0000",
       "cooked_chicken": "2023-04-23 16:26:41 +0000",
       "enchanted_golden_apple": "2024-06-08 15:30:24 +0000",
+      "cooked_cod": "2024-02-03 18:45:27 +0000",
+      "pumpkin_pie": "2023-02-06 17:46:16 +0000",
       "carrot": "2023-01-19 09:45:02 +0000"
     },
     "done": false
@@ -2297,14 +2297,14 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:frog": "2023-03-07 00:01:24 +0000",
-      "minecraft:turtle": "2023-03-18 01:14:18 +0000",
-      "minecraft:sheep": "2023-02-03 13:25:22 +0000",
-      "minecraft:mule": "2024-06-08 11:44:35 +0000",
       "minecraft:mooshroom": "2024-03-06 10:39:44 +0000",
       "minecraft:cow": "2023-02-03 13:25:15 +0000",
       "minecraft:chicken": "2024-02-06 16:28:25 +0000",
-      "minecraft:horse": "2024-06-08 11:44:26 +0000"
+      "minecraft:horse": "2024-06-08 11:44:26 +0000",
+      "minecraft:frog": "2023-03-07 00:01:24 +0000",
+      "minecraft:turtle": "2023-03-18 01:14:18 +0000",
+      "minecraft:sheep": "2023-02-03 13:25:22 +0000",
+      "minecraft:mule": "2024-06-08 11:44:35 +0000"
     },
     "done": false
   },
@@ -3220,60 +3220,6 @@
     },
     "done": true
   },
-  "vanillatweaks:root": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:player_head_drops": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:multiplayer_sleep": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:kill_empty_boats": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:custom_nether_portals": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:more_mob_heads": {
-    "criteria": {
-      "tick": "2023-02-14 16:22:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2023-02-14 17:23:47 +0000"
@@ -3529,12 +3475,6 @@
   "minecraft:adventure/play_jukebox_in_meadows": {
     "criteria": {
       "play_jukebox_in_meadows": "2023-02-16 19:50:28 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2023-02-17 16:35:40 +0000"
     },
     "done": true
   },
@@ -5880,18 +5820,6 @@
     },
     "done": true
   },
-  "vanillatweaks:durability_ping": {
-    "criteria": {
-      "tick": "2023-09-05 15:41:44 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:silence_mobs": {
-    "criteria": {
-      "tick": "2023-09-05 15:41:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2024-02-03 17:56:23 +0000"
@@ -6312,12 +6240,6 @@
     },
     "done": true
   },
-  "vanillatweaks:wandering_trades": {
-    "criteria": {
-      "tick": "2024-02-21 11:37:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2024-02-21 13:07:22 +0000"
@@ -6418,18 +6340,6 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-05-18 15:44:09 +0000"
-    },
-    "done": true
-  },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2024-05-19 14:06:03 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
-    "criteria": {
-      "tick": "2024-05-19 14:06:03 +0000"
     },
     "done": true
   },
@@ -6571,5 +6481,5 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "DataVersion": 3953
 }

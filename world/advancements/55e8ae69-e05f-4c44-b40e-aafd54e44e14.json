@@ -1,109 +1,37 @@
 {
-  "vanillatweaks:root": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:durability_ping": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:player_head_drops": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:multiplayer_sleep": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2023-12-21 14:29:11 +0000"
     },
     "done": true
   },
-  "vanillatweaks:silence_mobs": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:kill_empty_boats": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:custom_nether_portals": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_slopes": "2023-12-21 14:52:11 +0000",
-      "minecraft:birch_forest": "2023-12-22 15:53:17 +0000",
-      "minecraft:bamboo_jungle": "2024-04-08 23:30:26 +0000",
       "minecraft:savanna_plateau": "2023-12-21 16:44:11 +0000",
+      "minecraft:snowy_slopes": "2023-12-21 14:52:11 +0000",
       "minecraft:beach": "2023-12-22 15:55:49 +0000",
       "minecraft:dark_forest": "2023-12-21 16:22:14 +0000",
       "minecraft:stony_peaks": "2023-12-21 16:44:14 +0000",
+      "minecraft:forest": "2023-12-22 15:23:27 +0000",
       "minecraft:sparse_jungle": "2023-12-22 15:55:38 +0000",
       "minecraft:lukewarm_ocean": "2023-12-21 16:11:41 +0000",
       "minecraft:river": "2023-12-21 16:22:23 +0000",
       "minecraft:stony_shore": "2023-12-21 16:11:33 +0000",
-      "minecraft:dripstone_caves": "2023-12-21 14:33:17 +0000",
-      "minecraft:grove": "2023-12-21 14:39:20 +0000",
-      "minecraft:jagged_peaks": "2023-12-21 14:33:38 +0000",
-      "minecraft:forest": "2023-12-22 15:23:27 +0000",
       "minecraft:lush_caves": "2023-12-22 15:54:00 +0000",
+      "minecraft:dripstone_caves": "2023-12-21 14:33:17 +0000",
+      "minecraft:deep_dark": "2024-04-08 23:21:31 +0000",
       "minecraft:ocean": "2023-12-21 16:17:51 +0000",
       "minecraft:jungle": "2023-12-22 15:53:58 +0000",
-      "minecraft:deep_lukewarm_ocean": "2023-12-21 16:11:43 +0000",
-      "minecraft:deep_dark": "2024-04-08 23:21:31 +0000",
+      "minecraft:grove": "2023-12-21 14:39:20 +0000",
       "minecraft:meadow": "2023-12-21 14:29:11 +0000",
+      "minecraft:birch_forest": "2023-12-22 15:53:17 +0000",
       "minecraft:savanna": "2023-12-21 16:44:23 +0000",
-      "minecraft:plains": "2023-12-21 14:52:12 +0000"
+      "minecraft:bamboo_jungle": "2024-04-08 23:30:26 +0000",
+      "minecraft:plains": "2023-12-21 14:52:12 +0000",
+      "minecraft:jagged_peaks": "2023-12-21 14:33:38 +0000",
+      "minecraft:deep_lukewarm_ocean": "2023-12-21 16:11:43 +0000"
     },
     "done": false
-  },
-  "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:more_mob_heads": {
-    "criteria": {
-      "tick": "2023-12-21 14:29:11 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
@@ -650,11 +578,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-12-22 14:41:32 +0000",
-      "minecraft:spider": "2023-12-21 17:18:38 +0000",
-      "minecraft:creeper": "2023-12-21 16:45:58 +0000",
       "minecraft:phantom": "2023-12-22 14:41:36 +0000",
       "minecraft:enderman": "2023-12-21 15:07:20 +0000",
+      "minecraft:spider": "2023-12-21 17:18:38 +0000",
       "minecraft:zombie": "2023-12-21 16:46:00 +0000",
+      "minecraft:creeper": "2023-12-21 16:45:58 +0000",
       "minecraft:drowned": "2023-12-21 16:25:12 +0000"
     },
     "done": false
@@ -1457,11 +1385,5 @@
     },
     "done": true
   },
-  "vanillatweaks:wandering_trades": {
-    "criteria": {
-      "tick": "2024-04-08 23:18:02 +0000"
-    },
-    "done": true
-  },
-  "DataVersion": 3465
+  "DataVersion": 3953
 }

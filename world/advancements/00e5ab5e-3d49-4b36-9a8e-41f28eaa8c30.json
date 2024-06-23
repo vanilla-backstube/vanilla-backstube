@@ -60,23 +60,23 @@
     "criteria": {
       "cooked_porkchop": "2023-03-01 18:52:31 +0000",
       "honey_bottle": "2023-05-07 17:17:50 +0000",
+      "rotten_flesh": "2023-03-15 15:57:17 +0000",
+      "suspicious_stew": "2023-08-10 20:52:47 +0000",
       "cooked_mutton": "2023-03-09 20:23:14 +0000",
+      "glow_berries": "2023-08-31 19:48:46 +0000",
       "cooked_beef": "2023-03-01 18:30:35 +0000",
       "baked_potato": "2023-02-12 16:54:46 +0000",
       "beef": "2023-06-29 19:06:40 +0000",
-      "tropical_fish": "2024-02-22 21:26:45 +0000",
-      "apple": "2023-03-16 15:53:29 +0000",
-      "potato": "2023-02-12 17:32:00 +0000",
-      "cooked_cod": "2023-07-10 18:00:20 +0000",
-      "pumpkin_pie": "2023-02-12 16:53:01 +0000",
-      "rotten_flesh": "2023-03-15 15:57:17 +0000",
-      "suspicious_stew": "2023-08-10 20:52:47 +0000",
-      "glow_berries": "2023-08-31 19:48:46 +0000",
       "melon_slice": "2023-02-26 20:14:54 +0000",
+      "tropical_fish": "2024-02-22 21:26:45 +0000",
       "golden_carrot": "2023-02-26 20:36:32 +0000",
+      "apple": "2023-03-16 15:53:29 +0000",
       "cooked_rabbit": "2023-03-25 15:27:25 +0000",
       "cooked_chicken": "2023-03-10 14:59:00 +0000",
-      "cod": "2023-08-16 10:18:35 +0000"
+      "potato": "2023-02-12 17:32:00 +0000",
+      "cooked_cod": "2023-07-10 18:00:20 +0000",
+      "cod": "2023-08-16 10:18:35 +0000",
+      "pumpkin_pie": "2023-02-12 16:53:01 +0000"
     },
     "done": false
   },
@@ -501,6 +501,7 @@
       "minecraft:husk": "2023-08-13 23:51:38 +0000",
       "minecraft:ender_dragon": "2023-09-18 15:53:55 +0000",
       "minecraft:shulker": "2023-02-26 21:38:35 +0000",
+      "minecraft:cave_spider": "2024-06-22 13:20:19 +0000",
       "minecraft:piglin": "2023-03-01 19:01:04 +0000",
       "minecraft:enderman": "2023-02-26 21:05:10 +0000",
       "minecraft:stray": "2023-03-02 16:34:20 +0000",
@@ -1365,66 +1366,6 @@
     },
     "done": true
   },
-  "vanillatweaks:root": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:player_head_drops": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:kill_empty_boats": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:custom_nether_portals": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:afk_display": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:anti_enderman_grief": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:more_mob_heads": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:multiplayer_sleep": {
-    "criteria": {
-      "tick": "2023-02-26 17:13:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-02-26 17:15:24 +0000"
@@ -1535,9 +1476,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2023-02-26 17:47:16 +0000",
       "minecraft:turtle": "2023-03-09 19:25:08 +0000",
       "minecraft:sheep": "2023-03-14 16:35:27 +0000",
-      "minecraft:cow": "2023-02-26 17:47:16 +0000",
       "minecraft:axolotl": "2024-02-22 19:07:21 +0000"
     },
     "done": false
@@ -5376,18 +5317,6 @@
     },
     "done": true
   },
-  "vanillatweaks:durability_ping": {
-    "criteria": {
-      "tick": "2023-09-17 13:42:23 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:silence_mobs": {
-    "criteria": {
-      "tick": "2023-09-17 13:42:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2023-09-17 13:55:18 +0000"
@@ -5583,12 +5512,6 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-02-10 15:07:44 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:wandering_trades": {
-    "criteria": {
-      "tick": "2024-02-22 14:53:09 +0000"
     },
     "done": true
   },
@@ -5880,17 +5803,5 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
-    "criteria": {
-      "tick": "2024-06-01 18:25:46 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:armor_statues": {
-    "criteria": {
-      "tick": "2024-06-01 18:25:46 +0000"
-    },
-    "done": true
-  },
-  "DataVersion": 3465
+  "DataVersion": 3953
 }

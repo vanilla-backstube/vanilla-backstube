@@ -263,6 +263,7 @@
       "minecraft:piglin": "2023-02-15 10:49:33 +0000",
       "minecraft:enderman": "2023-01-22 15:56:55 +0000",
       "minecraft:silverfish": "2023-01-22 15:56:02 +0000",
+      "minecraft:stray": "2024-06-24 11:47:58 +0000",
       "minecraft:endermite": "2023-02-26 23:21:53 +0000",
       "minecraft:vex": "2023-01-22 19:35:25 +0000",
       "minecraft:zombie": "2023-01-19 09:40:38 +0000",
@@ -6267,6 +6268,18 @@
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2024-06-22 18:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-06-24 10:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-06-24 10:42:52 +0000"
     },
     "done": true
   },

@@ -5859,5 +5859,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2024-06-25 10:26:10 +0000"
+    },
+    "done": true
+  },
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2024-06-25 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "jodek:no_enderman_grief": {
+    "criteria": {
+      "tick": "2024-06-25 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2024-06-25 21:10:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

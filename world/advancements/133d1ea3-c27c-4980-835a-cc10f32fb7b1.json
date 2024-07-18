@@ -6942,24 +6942,6 @@
     },
     "done": true
   },
-  "jodek:mobs": {
-    "criteria": {
-      "tick": "2024-06-25 20:46:30 +0000"
-    },
-    "done": true
-  },
-  "jodek:no_enderman_grief": {
-    "criteria": {
-      "tick": "2024-06-25 20:46:30 +0000"
-    },
-    "done": true
-  },
-  "jodek:root": {
-    "criteria": {
-      "tick": "2024-06-25 20:46:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/copper_bulb": {
     "criteria": {
       "has_copper_block": "2024-06-25 22:12:30 +0000"

@@ -2735,24 +2735,6 @@
     },
     "done": true
   },
-  "jodek:mobs": {
-    "criteria": {
-      "tick": "2024-07-13 10:56:39 +0000"
-    },
-    "done": true
-  },
-  "jodek:no_enderman_grief": {
-    "criteria": {
-      "tick": "2024-07-13 10:56:39 +0000"
-    },
-    "done": true
-  },
-  "jodek:root": {
-    "criteria": {
-      "tick": "2024-07-13 10:56:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-07-13 11:27:47 +0000"
@@ -2789,21 +2771,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2024-07-14 12:06:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-07-14 11:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2024-07-14 12:06:29 +0000"
     },
     "done": true
   },
@@ -2816,6 +2786,18 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-07-14 11:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-07-14 12:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-07-14 12:06:29 +0000"
     },
     "done": true
   },
@@ -2870,6 +2852,24 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-07-14 12:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-07-22 08:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-07-22 08:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-07-22 08:48:21 +0000"
     },
     "done": true
   },

@@ -56,6 +56,8 @@
       "minecraft:taiga": "2023-05-07 18:41:29 +0000",
       "minecraft:sparse_jungle": "2023-05-07 15:03:50 +0000",
       "minecraft:river": "2023-05-05 17:13:18 +0000",
+      "minecraft:lukewarm_ocean": "2024-08-14 20:20:15 +0000",
+      "minecraft:stony_shore": "2024-08-14 20:20:07 +0000",
       "minecraft:dripstone_caves": "2023-05-05 18:48:56 +0000",
       "minecraft:frozen_peaks": "2023-05-08 18:24:47 +0000",
       "minecraft:old_growth_birch_forest": "2023-05-08 18:22:56 +0000",
@@ -1926,12 +1928,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-08-04 15:55:02 +0000"
-    },
-    "done": true
-  },
   "armor_statues:enable": {
     "criteria": {
       "tick": "2024-08-04 15:53:13 +0000"
@@ -1947,6 +1943,60 @@
   "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2024-08-04 15:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-08-04 15:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-08-14 20:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2024-08-14 20:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-08-14 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-08-14 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2024-08-14 20:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-08-14 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-08-14 20:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-08-14 20:05:08 +0000"
     },
     "done": true
   },
